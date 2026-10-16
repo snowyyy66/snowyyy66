@@ -8,8 +8,8 @@
       <feMerge><feMergeNode in="g"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
     <style>
-      .flicker{animation:p 2.4s steps(1,end) infinite}
-      @keyframes p{0%,100%{opacity:1}41%{opacity:.78}43%{opacity:1}71%{opacity:.9}73%{opacity:1}}
+      .flicker{animation:p 5s ease-in-out infinite}
+      @keyframes p{0%,100%{opacity:1}50%{opacity:.96}}
       @media (prefers-reduced-motion:reduce){.flicker{animation:none}}
     </style>
   </defs>
