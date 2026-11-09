@@ -3,7 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/sparks.svg" width="760" alt="">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/snowyyy66/snowyyy66/main/assets/sparks-light.svg?v=gold1">
+    <img src="assets/sparks.svg" width="760" alt="">
+  </picture>
 </p>
 
 <p align="center">
